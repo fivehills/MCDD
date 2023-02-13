@@ -33,7 +33,8 @@
         {
             "id": 5,
             "parent": 3,
-            "text": "Unterschieden wird zwischen Direktsaft und Fruchtsaft aus Fruchtsaftkonzentrat. <S>": "Conjunction"
+            "text": "Unterschieden wird zwischen Direktsaft und Fruchtsaft aus Fruchtsaftkonzentrat. <S>": 
+            "relation": "Conjunction"
         },
         {
             "id": 6,
