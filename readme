@@ -4,4 +4,4 @@ we expect. The MECO includes 12 Wikipedia-style encyclopedic text entries in eac
 Overall, the texts in these different languages are quite parallel, suggesting that they are well suited for cross-linguistic study. All of this makes the annotation of discourse structure dependencies easy to manipulate. We therefore use the stimuli texts from the MECO (Siegelma et al., 2022) to develop the MCDD. Moreover, reading information (e.g., reading durations) was
 assigned to each word, sentence, and text, and could be easily used for cognitive studies. We have annotated the English, German and Spanish sections.
 
-Attached is the stimuli texts from the MECO and out annotation sample.
+Attached is the stimuli texts from the MECO ("texts.zip") and our annotation samples in English, German and Spanish ("janus_en.js", "orangejuice_de.js", "beekeeping_sp.js").
